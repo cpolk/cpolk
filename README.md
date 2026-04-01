@@ -1,4 +1,4 @@
-# Hi, I’m [Chris Polk]
+# Hi, I’m Chris Polk
 
 Senior technology leader focused on customer outcomes, platform architecture, DevSecOps adoption, and operational excellence.
 
@@ -34,5 +34,5 @@ A simple repository demonstrating CI, dependency review, and secure pull request
 - secure adoption at scale
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/chris-polk]
-- Email: [chris_polk@hotmail.com]
+- LinkedIn: https://www.linkedin.com/in/chris-polk
+- Email: chris_polk@hotmail.com
